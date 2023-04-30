@@ -5,3 +5,8 @@
 body {
     background-color: rgb(43, 197, 12);
 }
+p {
+    font-size: 30px;
+    color: blue;
+    background-color: bisque;
+}
