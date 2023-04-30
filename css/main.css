@@ -10,4 +10,8 @@ p {
     color: rgb(9, 9, 49);
     background-color: rgb(237, 190, 247);
 }
-//коментарий
+/* коментарий */
+h3 {
+    font-size: 35px;
+    background-color: aquamarine;
+}
